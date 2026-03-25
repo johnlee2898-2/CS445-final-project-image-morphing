@@ -43,6 +43,7 @@ The code will take some time to create and save the desired number of intermedia
 
 <b>Note - The code is explained in the report itself.</b>
 
-<img width="988" height="452" alt="image" src="https://github.com/user-attachments/assets/15191dcc-d680-4113-8504-e3a5b2bd50b8" />
+<img width="989" height="452" alt="image" src="https://github.com/user-attachments/assets/c6d01f30-0a64-4a18-95e7-0f2a7ff89faf" />
+
 
 
