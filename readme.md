@@ -42,3 +42,28 @@ The code will take some time to create and save the desired number of intermedia
 <strong>If you find any difficulty in the steps above you can refer to the video attached of the same.</strong>
 
 <b>Note - The code is explained in the report itself.</b>
+
+Project Structure
+Electric-vehicle-market-sentiment-trend-analysis/
+│
+├── utils
+│    └── image_utils.py           # Directory for utils files 
+│        
+│── Triangulated Images           # Directory for generated triangulated Images
+│        ├── Triangulated Image_src.jpg        
+│        └── Triangulated Image_dest.jpg       
+├── generated-images              # directory which saves all generated intermediate morphing images and generated MP4 or GIF files
+├── main.py                       # This is the entrance Python file 
+├── input-images                  # directory for two input images
+│   ├── img1.png            
+│   └── img2.png             
+│
+├── morph                      # Morphing related source code directory
+│   ├── blend.py
+│   ├── correspondences.py
+│   ├── warp.py
+│   └── triangulation.py
+├── Report.pdf                 # Document 
+└── README.md                     
+
+
