@@ -46,7 +46,9 @@ The code will take some time to create and save the desired number of intermedia
 <img width="989" height="452" alt="image" src="https://github.com/user-attachments/assets/c6d01f30-0a64-4a18-95e7-0f2a7ff89faf" />
 
 <strong>Note: Please follow below project structure to add more files </strong>
-<strong>Project structure: </strong>
+## Project Structure
+
+```text
 CS445-final-project-image-morphing/
 
 │── morphing-applications            # Directory for all morphing useful applications
@@ -98,5 +100,5 @@ CS445-final-project-image-morphing/
 │
 └── README.md
 
-
+```
 
