@@ -51,52 +51,52 @@ The code will take some time to create and save the desired number of intermedia
 ```text
 CS445-final-project-image-morphing/
 
-│── morphing-applications            # Directory for all morphing useful applications
+│── morphing-applications           # Directory for all morphing useful applications
 │        ├── application1
 │        ├── application2
 │        ├── application3
 │        └── application4
 │
 ├── utils
-│    └── image_utils.py            # Directory for all utils files
+│    └── image_utils.py             # Directory for all utils files
 │
-│── Triangulated Images            # Directory for generated triangulated images
+│── Triangulated Images             # Directory for generated triangulated images
 │        ├── Triangulated Image_src.jpg
 │        └── Triangulated Image_dest.jpg
 │
-├── generated-images               # Directory saving all generated intermediate morphing images and generated MP4 and GIF files
+├── generated-images                # Directory saving all generated intermediate morphing images and generated MP4 and GIF files
 │   ├── inter_1.jpg
 │   ├── inter_2.jpg
 │   ├── ..........
 │   ├── output.gif
 │   └── output.mp4
 │
-├── generated-images-multi-inputs    # Multiple input images case
+├── generated-images-multi-inputs   # Multiple input images case
 │   ├── inter_1.jpg
 │   ├── inter_2.jpg
 │   ├── ..........
 │   ├── output.gif
 │   └── output.mp4
 │
-├── main.py                        # This is the entrance python file
+├── main.py                         # This is the entrance python file
 │
-├── input-images                   # Directory for two input images
+├── input-images                    # Directory for two input images
 │   ├── img1.png 
 │   └── img2.png
 │
-├── morph                      # Morphing related source code
+├── morph                           # Morphing related source code
 │   ├── blend.py
 │   ├── correspondences.py
 │   ├── triangulation.py
 │   └── warp.py
 │
-├── multi-input-images                # Directory for multiple input images which will be used to generate multiple continuous morphing effect
+├── multi-input-images              # Directory for multiple input images which will be used to generate multiple continuous morphing effect
 │   ├── multi-image1.png
 │   ├── multi-image2.png
 │   ├── multi-image3.png
 │   └── .........
 │
-├── Report.pdf                 # Document
+├── Report.pdf                      # Document
 │
 └── README.md
 
