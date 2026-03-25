@@ -1,6 +1,6 @@
 <strong>Sample ouput:</strong>
 
-<img width="600" height="600" alt="image" src="./generated-images/ouput.gif" />
+![output](https://github.com/user-attachments/assets/3207051d-6e26-4a34-b652-da9665d8486f)
 
 
 ---
