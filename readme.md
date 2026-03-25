@@ -1,5 +1,6 @@
 <strong>Sample ouput:</strong>
 
+<img width="600" height="600" alt="image" src="./generated-images/ouput.gif" />
 
 
 ---
