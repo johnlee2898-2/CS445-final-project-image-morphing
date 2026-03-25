@@ -1,3 +1,8 @@
+<strong>Sample ouput:</strong>
+
+
+
+---
 <p>Image morphing can be defined as a technique which constructs the sequence of images
 depicting the transition between them. The method that is used in this project involves using
 Delaunay Triangulation and Affine transformation.</p>
