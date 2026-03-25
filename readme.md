@@ -14,7 +14,7 @@ This file contains the steps on how to execute the file.
 
 <strong>Step-1</strong> Open the command line or terminal and enter the following -
 
-                    $python3 main.py img1.jpg img2.jpg
+                    $python3 main.py img1.png img2.png
 
 here img1 refers to the source image and img2 refers to the destination image.
 
@@ -44,6 +44,59 @@ The code will take some time to create and save the desired number of intermedia
 <b>Note - The code is explained in the report itself.</b>
 
 <img width="989" height="452" alt="image" src="https://github.com/user-attachments/assets/c6d01f30-0a64-4a18-95e7-0f2a7ff89faf" />
+
+<strong>Note: Please follow below project structure to add more files </strong>
+<strong>Project structure: </strong>
+CS445-final-project-image-morphing/
+
+│── morphing-applications            # Directory for all morphing useful applications
+│        ├── application1
+│        ├── application2
+│        ├── application3
+│        └── application4
+│
+├── utils
+│    └── image_utils.py            # Directory for all utils files
+│
+│── Triangulated Images            # Directory for generated triangulated images
+│        ├── Triangulated Image_src.jpg
+│        └── Triangulated Image_dest.jpg
+│
+├── generated-images               # Directory saving all generated intermediate morphing images and generated MP4 and GIF files
+│   ├── inter_1.jpg
+│   ├── inter_2.jpg
+│   ├── ..........
+│   ├── output.gif
+│   └── output.mp4
+│
+├── generated-images-multi-inputs    # Multiple input images case
+│   ├── inter_1.jpg
+│   ├── inter_2.jpg
+│   ├── ..........
+│   ├── output.gif
+│   └── output.mp4
+│
+├── main.py                        # This is the entrance python file
+│
+├── input-images                   # Directory for two input images
+│   ├── img1.png 
+│   └── img2.png
+│
+├── morph                      # Morphing related source code
+│   ├── blend.py
+│   ├── correspondences.py
+│   ├── triangulation.py
+│   └── warp.py
+│
+├── multi-input-images                # Directory for multiple input images which will be used to generate multiple continuous morphing effect
+│   ├── multi-image1.png
+│   ├── multi-image2.png
+│   ├── multi-image3.png
+│   └── .........
+│
+├── Report.pdf                 # Document
+│
+└── README.md
 
 
 
