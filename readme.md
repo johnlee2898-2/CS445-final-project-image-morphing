@@ -54,7 +54,7 @@ who don’t know coding.</p>
 1. [Hybrid image using image morphing](https://github.com/johnlee2898-2/CS445-final-project-image-morphing/tree/main/morphing_applications/hybrid_image_with_morphing)
 2. [Multi-image face averaging](https://github.com/johnlee2898-2/CS445-final-project-image-morphing/tree/main/morphing_applications/multi_img_processing)
 3. [Expression transfer](https://github.com/johnlee2898-2/CS445-final-project-image-morphing/tree/main/morphing_applications/application3)
-4. Application 4
+
 
 ---
 
